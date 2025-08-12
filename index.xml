@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Personal Website</title>
+    <link>https://parag1604.github.io/</link>
+    <description>Recent content in Home on Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://parag1604.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achievements</title>
+      <link>https://parag1604.github.io/achievements/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://parag1604.github.io/achievements/</guid>
+      
+        <description>Academic/Professional Achievements</description>
+      
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://parag1604.github.io/education/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://parag1604.github.io/education/</guid>
+      
+        <description>List of Academic Qualifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://parag1604.github.io/experience/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://parag1604.github.io/experience/</guid>
+      
+        <description>List of Academic/Professional Activities</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://parag1604.github.io/publications/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://parag1604.github.io/publications/</guid>
+      
+        <description>List of Publications in top conferences</description>
+      
+    </item>
+    
+  </channel>
+</rss>
