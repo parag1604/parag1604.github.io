@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Personal Website</title>
-    <link>https://parag1604.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://parag1604.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accolades</title>
-      <link>https://parag1604.github.io/accolades/</link>
+      <link>http://localhost:1313/accolades/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://parag1604.github.io/accolades/</guid>
+      <guid>http://localhost:1313/accolades/</guid>
       
         <description>Recent Academic/Professional Honors and Achievements</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Affiliations</title>
-      <link>https://parag1604.github.io/affiliations/</link>
+      <link>http://localhost:1313/affiliations/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://parag1604.github.io/affiliations/</guid>
+      <guid>http://localhost:1313/affiliations/</guid>
       
         <description>List of Academic/Professional Affiliations</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Portfolio</title>
-      <link>https://parag1604.github.io/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://parag1604.github.io/portfolio/</guid>
+      <guid>http://localhost:1313/portfolio/</guid>
       
         <description>List of Academic/Professional Projects</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Publications</title>
-      <link>https://parag1604.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://parag1604.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       
         <description>List of Publications in top conferences</description>
       
