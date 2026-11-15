@@ -1,55 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Personal Website</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Accolades</title>
-      <link>http://localhost:1313/accolades/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/accolades/</guid>
-      
-        <description>Recent Academic/Professional Honors and Achievements</description>
-      
-    </item>
-    
-    <item>
-      <title>Affiliations</title>
-      <link>http://localhost:1313/affiliations/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/affiliations/</guid>
-      
-        <description>List of Academic/Professional Affiliations</description>
-      
-    </item>
-    
-    <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/</guid>
-      
-        <description>List of Academic/Professional Projects</description>
-      
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/publications/</guid>
-      
-        <description>List of Publications in top conferences</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Parag Dutta</title><link>https://parag1604.github.io/</link><description>Recent content in Home on Parag Dutta</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://parag1604.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Accolades</title><link>https://parag1604.github.io/accolades/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://parag1604.github.io/accolades/</guid><description>&lt;ul&gt;
+&lt;li&gt;Google Ph.D. Fellowship - 2026&lt;/li&gt;
+&lt;li&gt;Amazon Top 100 AI/ML Researcher - 2026&lt;/li&gt;
+&lt;li&gt;Oral Paper (top 4.6%) in AAAI - 2025&lt;/li&gt;
+&lt;li&gt;VeARC Ph.D. Fellowship - 2024&lt;/li&gt;
+&lt;li&gt;Eightfold Hackathon Winner - 2022&lt;/li&gt;
+&lt;li&gt;Distinction in M.Tech (CSE/AI) from IISc - 2021&lt;/li&gt;
+&lt;li&gt;McAfee Best Project Award for systems security course project - 2020&lt;/li&gt;
+&lt;li&gt;Secured 99.8 percentile - Graduate Aptitude Test in Engineering (GATE) - 2019&lt;/li&gt;
+&lt;li&gt;Regional Finalist (East Zone) - DRDO&amp;rsquo;s Robotics and Unmanned Systems Exposition - 2018&lt;/li&gt;
+&lt;li&gt;Semi Finalist - ISRO&amp;rsquo;s National Student Space Challenge (Colonizer Event) - 2017&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - Completed a course on Practical Reinforcement Learning, with honors from National Research University, Higher School of Economics - 2020 --&gt;
+&lt;!-- - Completed a course on Machine Learning by Andrew Ng from Stanford University - 2020 --&gt;
+&lt;!-- - Qualified for the final round of Microsoft AI Challenge - 2018 --&gt;
+&lt;!-- - Attended a course on "Data Mining" by Sunil Vadera of Salford University, Manchester (arranged by GIAN) and got certified - 2016 --&gt;
+&lt;!-- - Credited a course on "Robotic Vision" (Image processing for machines) by Peter Corke and received a Statement of Attainment from Queensland University of Technology, Brisbane Australia - 2016 --&gt;
+&lt;!-- Extra Curricular Activities: --&gt;
+&lt;!-- - 2nd Place - Table Tennis Tournament - GCELT's intra college sports fest Enginerds' - 2019
+- 1st Place - Website Designing - GCELT's inter college techno creative fest Enginerds' - 2018
+- 3rd Place - Quiz Competition - GCELT's inter college techno creative fest Enginerds' - 2018
+- 2nd Place - Line follower Robot - GCELT's inter college techno creative fest Enginerds' - 2017
+- 2nd Place - Line follower Robot - GCELT's inter college techno creative fest Enginerds' - 2016
+- 3rd Place - Need For Speed Most Wanted - GCELT's intra college sports fest Enginerds' - 2016 --&gt;</description></item><item><title>Affiliations</title><link>https://parag1604.github.io/affiliations/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://parag1604.github.io/affiliations/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ph.D. (Engg.) in Computer Science and Engineering&lt;/strong&gt; (2022 onwards)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Indian Institute of Science (IISc), Bangalore&lt;/li&gt;
+&lt;li&gt;Department of Computer Science and Automation (CSA)&lt;/li&gt;
+&lt;li&gt;Advisor: Prof. Ambedkar Dukkipati&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - Thesis: "Practical Approaches to Reinforcement Learning" --&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;M.Tech. in Computer Science and Engineering&lt;/strong&gt; (2019-2021)&lt;/p&gt;</description></item><item><title>Portfolio</title><link>https://parag1604.github.io/portfolio/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://parag1604.github.io/portfolio/</guid><description>&lt;hr style="opacity: 0.15; margin: 2.5em 0;"&gt;
+&lt;h2 id="unsupervised-image-captioning-using-multi-agent-rl"&gt;Unsupervised Image Captioning using Multi-agent RL&lt;/h2&gt;
+&lt;p&gt;Submitted to AAAI 2026 (November 2024 - July 2025)&lt;/p&gt;</description></item><item><title>Publications</title><link>https://parag1604.github.io/publications/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://parag1604.github.io/publications/</guid><description>&lt;h2 id="preprints"&gt;Preprints&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data&lt;/strong&gt; [&lt;a href="https://arxiv.org/abs/2507.08610" target="_blank" rel="noopener"&gt;arXiv&lt;/a&gt;]
+&lt;ul&gt;
+&lt;li&gt;By &lt;strong&gt;Parag Dutta&lt;/strong&gt; and Ambedkar Dukkipati&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="journal-articles"&gt;Journal Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Integrating Fourier Analysis and Deep Learning for Robust Detection of Deep Fake Brain Magnetic Resonance Images&lt;/strong&gt; [&lt;a href="https://www.sciencedirect.com/science/article/pii/S0167865526001066" target="_blank" rel="noopener"&gt;ABS&lt;/a&gt;]
+&lt;ul&gt;
+&lt;li&gt;By Vaishnavi Ravi, Yogesh K. Sahu, Prabhas R. Onteru, &lt;strong&gt;Parag Dutta&lt;/strong&gt;, Dhanshree Warokar, Padma Murali, Rajesh Katta, Ambedkar Dukkipati and Phaneendra K. Yalavarthy&lt;/li&gt;
+&lt;li&gt;In Pattern Recognition Letters, 2026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="conference-papers"&gt;Conference Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;One Encoder to Rule them All: Representation Learning for Model-free Visual Reinforcement Learning using Fourier Neural Operators&lt;/strong&gt; [&lt;a href="https://openaccess.thecvf.com/content/ICCV2025/html/Dutta_One_Encoder_to_Rule_them_All_Representation_Learning_for_Model-free_ICCV_2025_paper.html" target="_blank" rel="noopener"&gt;ABS&lt;/a&gt;] [&lt;a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Dutta_One_Encoder_to_Rule_them_All_Representation_Learning_for_Model-free_ICCV_2025_paper.pdf" target="_blank" rel="noopener"&gt;PDF&lt;/a&gt;]&lt;/p&gt;</description></item></channel></rss>
